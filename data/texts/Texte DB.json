@@ -1,0 +1,49 @@
+{
+    "Arckania gamin 1": {
+        "text 0":{
+            "case 0": "Il fait beau aujourd'hui ?$30\nhein ?"
+        }
+    },
+    "Arckania vieux 1": {
+        "text 0": {
+            "case 0": "Bonjour aventurier !",
+            "case 1": "Bienvenue à Arckania !$10\nLa ville principale de la région !"
+        }
+    },
+    "Chief" : {
+        "text 0": {
+          "case 0": "Ah!$10\nTu t'es enfin réveillé...",
+          "case 1": "nous t'avons trouvé inconscient au milieu du\ndésert$30\nTous vas bien ?",
+          "case 2": "Bienvenue dans la région de Warnia!!!$30\nUne région peu connue du reste du monde$20.$20.$20.",
+          "case 3": "Je suis le Commandant Zack de vrai nom\nZackaria. Et tu trouves actuellement dans \nla contre du désert, plus précisément \ndans la cite de new Djerherzis",
+          "case 4": "Bon malheureusement nous avons actuellement \ndes problèmes$20.$20.$20.",
+          "case 5": "je te laisse aller voir ma fille en bas. \nElle te précisera plus de détails sur la situation"
+        }
+      },
+    "special Guard": {
+      "text 0": {
+        "case 0": "Bonjour!$30\nTout va bien ?",
+        "case 1": "Quelle idée de se promener dans le désert\nEn armure...$30Tu devais avoir chaud\nquand même!",
+        "case 2": "mon père a du de te dire que nous avions\ndes problèmes... En faite nous sommes en conflit\navec la cité voisine plus à l'Est.",
+        "case 3": "mais cela ne te regarde pas bien sûr!$30\nque fais tu ici ?",
+        "case 4": "$20.$20.$20.",
+        "case 5": "Tu n'es pas très bavard dit donc!\nJe te conseille d'aller voir dehors\ndécouvrir la région.",
+        "case 6": "mais n'oublie pas de ne pas aller à l'EST\n$30d'accord?"
+      }
+    },
+    "petite fille": {
+      "text 0": {
+        "case 0": "moi quand je serai grande...\nJe voudrais être comme maman!"
+      }
+    },
+    "vielle debut": {
+      "text 0": {
+        "case 0": "fait bien attention a toi, mon garçon!$30\nLe soleil ne ta pas fait de cadeaux\nla dernière fois!"
+      }
+  },
+  "phantom": {
+    "text 0": {
+      "case 0": "La lumière de dehors vous éblouie tellement\nque vous hésitez sortir!"
+    }
+  }
+}

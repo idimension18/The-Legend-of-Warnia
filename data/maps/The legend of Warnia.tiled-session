@@ -1,0 +1,590 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "new djeherzis.tmx",
+    "automapping.whileDrawing": true,
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        "": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Arckania interiors.tmx": {
+            "scale": 1,
+            "selectedLayer": 12,
+            "viewCenter": {
+                "x": 1410,
+                "y": 1064
+            }
+        },
+        "Arckania interiors.tmx#Chef": {
+            "scaleInDock": 1
+        },
+        "Arckania interiors.tmx#Guardienne 2": {
+            "scaleInDock": 1
+        },
+        "Arckania interiors.tmx#Purple Square": {
+            "scaleInDock": 1
+        },
+        "Arckania interiors.tmx#Shadow Human": {
+            "scaleInDock": 1
+        },
+        "Arckania interiors.tmx#[A]Wall-Up1_pipo": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Arckania interiors.tmx#joint interieur": {
+            "scaleInDock": 1
+        },
+        "Arckania interiors.tmx#veille du desert": {
+            "scaleInDock": 1
+        },
+        "Arckania.tmx": {
+            "scale": 1,
+            "selectedLayer": 18,
+            "viewCenter": {
+                "x": 1600,
+                "y": 1767
+            }
+        },
+        "Arckania.tmx#BaseChip NO COLIISION": {
+            "scaleInDock": 1
+        },
+        "Arckania.tmx#Blue Square": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Arckania.tmx#DES PETITS CHAAAATS!!!!!": {
+            "scaleInDock": 1
+        },
+        "Arckania.tmx#DeepWaterTown": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.55
+        },
+        "Arckania.tmx#Femme Blonde": {
+            "scaleInDock": 1
+        },
+        "Arckania.tmx#Femme Brune": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Arckania.tmx#Fontaine": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Arckania.tmx#Grass": {
+            "scaleInDock": 1
+        },
+        "Arckania.tmx#LE VIEUX": {
+            "scaleInDock": 1
+        },
+        "Arckania.tmx#La VIELLE": {
+            "scaleInDock": 1
+        },
+        "Arckania.tmx#LightShadow_pipo": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Arckania.tmx#LightShadow_pipo2": {
+            "scaleInDock": 1
+        },
+        "Arckania.tmx#Male 14-1": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Arckania.tmx#Purple Square": {
+            "scaleInDock": 1
+        },
+        "Arckania.tmx#RedSquare": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Arckania.tmx#Soldier Lance": {
+            "scaleInDock": 1
+        },
+        "Arckania.tmx#Un chien.": {
+            "scaleInDock": 1
+        },
+        "Arckania.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "Arckania.tmx#[Base]BaseChip_pipo": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Arckania.tmx#[Base]BaseChip_pipo NO COLLISION": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Arckania.tmx#square": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/Pipoya RPG Tileset 32x32/SampleMap/[A]Flower_pipo.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/Pipoya RPG Tileset 32x32/SampleMap/[A]Grass_pipo.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/Pipoya RPG Tileset 32x32/SampleMap/[A]WaterFall_pipo.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/Pipoya RPG Tileset 32x32/SampleMap/[A]Water_pipo.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/Pipoya RPG Tileset 32x32/SampleMap/samplemap.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 959.3333333333333,
+                "y": 959.3333333333333
+            }
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/Pipoya RPG Tileset 32x32/SampleMap/samplemap.tmx#[Base]BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave/BaseChip NO COLIISION.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave/DES PETITS CHAAAATS!!!!!.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave/DeepWater.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1.3
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave/DeepWaterTown.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.75
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave/DesertTown.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave/Femme Blonde.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave/Femme Brune.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave/Fontaine.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave/Homme Griz.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave/LE VIEUX.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave/LightShadow_pipo.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave/LightShadow_pipo2.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave/Petit Brin.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave/Soldier Lance.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave/Un chien..tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave/Water not animated.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave/Water.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave/[Base]BaseChip_pipo NO COLIISION.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave/[Base]BaseChip_pipo NO COLLISION.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave/[Base]BaseChip_pipo.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 2
+        },
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave/desert town.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/MPA/Desktop/desert town.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "C:/Users/MPA/Desktop/water.xml": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "DryDesert.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1600,
+                "y": 1599
+            }
+        },
+        "Frontier.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1599,
+                "y": 1599
+            }
+        },
+        "Frontier.tmx#Water": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "GreatRiver.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1599,
+                "y": 1599
+            }
+        },
+        "GreatRiver.tmx#Water": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Tuiles/BaseChip NO COLIISION.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tuiles/Blue Square.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Tuiles/Purple Square.tsx": {
+            "scaleInDock": 1
+        },
+        "Tuiles/RedSquare.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Tuiles/Water.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tuiles/[Base]BaseChip_pipo.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Tuiles/desert.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Tuiles/test.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ancient Zepheheiz.tmx": {
+            "scale": 0.0625,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": -4392,
+                "y": -4352
+            }
+        },
+        "ancient Zepheheiz.tmx#46": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "ancient Zepheheiz.tmx#OasisWater": {
+            "dynamicWrapping": true
+        },
+        "desert.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 955.6666666666666,
+                "y": 620
+            }
+        },
+        "desert.tmx#Object": {
+            "dynamicWrapping": false
+        },
+        "desert.tmx#ObjectWithCollisions": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert.tmx#ObjectWithoutCollisions": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert.tmx#lava": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert.tmx#test": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert.tmx#test2": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "desert.tmx#water": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert.tmx#water2": {
+            "dynamicWrapping": true,
+            "scaleInEditor": 1
+        },
+        "down plain.tmx": {
+            "scale": 1,
+            "selectedLayer": 22,
+            "viewCenter": {
+                "x": 1600,
+                "y": 1599.5
+            }
+        },
+        "down plain.tmx#Grass": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "down plain.tmx#Purple Square": {
+            "scaleInDock": 1
+        },
+        "down plain.tmx#[Base]BaseChip_pipo NO COLIISION": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "down plain.tmx#chat noir": {
+            "scaleInDock": 1
+        },
+        "down plain.tmx#forest": {
+            "dynamicWrapping": false
+        },
+        "new djeherzis.tmx": {
+            "scale": 1,
+            "selectedLayer": 30,
+            "viewCenter": {
+                "x": 1503,
+                "y": 1514
+            }
+        },
+        "new djeherzis.tmx#Beach": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "new djeherzis.tmx#Beach NO COLLSION": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "new djeherzis.tmx#BeachWater": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "new djeherzis.tmx#Dark Blue Square": {
+            "scaleInDock": 1
+        },
+        "new djeherzis.tmx#Dark Red Square": {
+            "scaleInDock": 1
+        },
+        "new djeherzis.tmx#DeepWater": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "new djeherzis.tmx#DesertTown": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "new djeherzis.tmx#Gamin du Sud": {
+            "scaleInDock": 1
+        },
+        "new djeherzis.tmx#Gardienne 1": {
+            "scaleInDock": 1
+        },
+        "new djeherzis.tmx#Grass": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "new djeherzis.tmx#Green Square": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "new djeherzis.tmx#Guardienne 2": {
+            "scaleInDock": 1
+        },
+        "new djeherzis.tmx#Oasis": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "new djeherzis.tmx#OasisWater": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "new djeherzis.tmx#Purple Square": {
+            "scaleInDock": 1
+        },
+        "new djeherzis.tmx#RPG Nature Tileset": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "new djeherzis.tmx#Vieux du Sud": {
+            "scaleInDock": 1
+        },
+        "new djeherzis.tmx#Water": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "new djeherzis.tmx#Yellow Square": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "new djeherzis.tmx#desert Men": {
+            "scaleInDock": 1
+        },
+        "new djeherzis.tmx#desert town": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "new djeherzis.tmx#desert young": {
+            "scaleInDock": 1
+        },
+        "new djeherzis.tmx#petite fille": {
+            "scaleInDock": 1
+        },
+        "new djeherzis.tmx#water": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "new world/mapTest.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 572,
+                "y": 291
+            }
+        },
+        "new world/new.tsx": {
+            "scaleInDock": 1
+        },
+        "new world/test.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "river plain.tmx": {
+            "scale": 2,
+            "selectedLayer": 28,
+            "viewCenter": {
+                "x": 1584,
+                "y": 1599.5
+            }
+        },
+        "river plain.tmx#Grass": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "river plain.tmx#Water": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "river plain.tmx#Water not animated": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "river plain.tmx#WaterFall": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.75
+        },
+        "river plain.tmx#[Base]BaseChip_pipo NO COLLISION": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "frame.defaultDuration": 100,
+    "last.externalTilesetPath": "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave",
+    "last.imagePath": "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/PIPOYA FREE RPG Character Sprites 32x32/Female",
+    "loadedWorlds": [
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/The Legend of Warnia.world"
+    ],
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "Arckania.tmx",
+        "down plain.tmx",
+        "river plain.tmx",
+        "new djeherzis.tmx",
+        "Arckania interiors.tmx",
+        "DryDesert.tmx"
+    ],
+    "project": "The legend of Warnia.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "Arckania.tmx",
+        "down plain.tmx",
+        "river plain.tmx",
+        "DryDesert.tmx",
+        "Arckania interiors.tmx",
+        "new djeherzis.tmx",
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave/DeepWater.tsx",
+        "ancient Zepheheiz.tmx",
+        "Frontier.tmx",
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave/[Base]BaseChip_pipo.tsx",
+        "C:/Users/MPA/Desktop/The Legend of Warnia/data/images/map ressources/TileSave/BaseChip NO COLIISION.tsx",
+        "Tuiles/BaseChip NO COLIISION.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "Fichiers de jeu de tuiles Tiled (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    },
+    "tileset.type": 0
+}

@@ -1,0 +1,62 @@
+{
+    "maps": [
+        {
+            "fileName": "maps/new djeherzis.tmx",
+            "height": 3200,
+            "width": 3200,
+            "x": 0,
+            "y": -32
+        },
+        {
+            "fileName": "maps/ancient Zepheheiz.tmx",
+            "height": 3200,
+            "width": 3200,
+            "x": 6400,
+            "y": -32
+        },
+        {
+            "fileName": "maps/Frontier.tmx",
+            "height": 3200,
+            "width": 3200,
+            "x": 3200,
+            "y": -32
+        },
+        {
+            "fileName": "maps/GreatRiver.tmx",
+            "height": 3200,
+            "width": 3200,
+            "x": 3200,
+            "y": -3232
+        },
+        {
+            "fileName": "maps/DryDesert.tmx",
+            "height": 3200,
+            "width": 3200,
+            "x": 0,
+            "y": -3232
+        },
+        {
+            "fileName": "maps/river plain.tmx",
+            "height": 3200,
+            "width": 3200,
+            "x": 0,
+            "y": -6432
+        },
+        {
+            "fileName": "maps/down plain.tmx",
+            "height": 3200,
+            "width": 3200,
+            "x": -3232,
+            "y": -6432
+        },
+        {
+            "fileName": "maps/Arckania.tmx",
+            "height": 3200,
+            "width": 3200,
+            "x": -3168,
+            "y": -9632
+        }
+    ],
+    "onlyShowAdjacentMaps": false,
+    "type": "world"
+}

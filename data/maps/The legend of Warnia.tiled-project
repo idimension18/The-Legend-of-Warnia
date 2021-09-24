@@ -1,0 +1,19 @@
+{
+    "automappingRulesFile": "",
+    "commands": [
+        {
+            "arguments": "",
+            "command": "C:/Users/MPA/Desktop/The Legend of Warnia/main.py",
+            "enabled": true,
+            "name": "Run",
+            "saveBeforeExecute": true,
+            "shortcut": null,
+            "showOutput": true,
+            "workingDirectory": "C:/Users/MPA/Desktop/The Legend of Warnia"
+        }
+    ],
+    "extensionsPath": "extensions",
+    "folders": [
+    ],
+    "objectTypesFile": ""
+}

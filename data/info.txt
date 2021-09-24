@@ -1,0 +1,36 @@
+sprite size = image(120*140)  physic(120*120)
+animation info :
+0 : front doing nothing
+1 : left doing nothing
+2 : back doing nothing
+3 : right diong nothing
+4 : front walking
+5 : left walking
+6 : back walking
+7 : right walking
+
+
+LE LORE :
+desert : dedjekerafaran (cité/pays/peiple), 
+new djeherzis (ville /oasis), 
+ancient zepheheiz (abandonné)
+arkadia : capitale
+
+NPC PATERN CODE:
+mouvement :
+W : walk
+S : stay
+
+direction :
+B : back
+F : front
+L : left
+R : right
+
+syntaxe : 
+MDX
+
+M : mouvement, D : direction :  X a number
+
+DB :
+Water Falls: +20db
